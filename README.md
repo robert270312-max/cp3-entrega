@@ -2,8 +2,8 @@
 
 Site pessoal desenvolvido para o Trabalho Individual A2 (HTML, CSS, JavaScript, Git).
 
-- **Autor:** [SEU NOME] — [SUA TURMA]
-- **Site publicado:** https://[SEU-USUARIO].github.io/meu-portfolio/
+- **Autor:** Robert Santos Perira — 012A
+- **Site publicado:** https://github.com/robert270312-max/curriculo_front
 - **Páginas:** index, currículo, contato (formulário), multimídia, gráficos
 - **Recursos:** HTML semântico, CSS responsivo (Flexbox, Grid, media queries, clamp), tema claro/escuro e mensagens salvas com localStorage, canvas e SVG
 
