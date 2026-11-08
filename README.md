@@ -1,1 +1,1 @@
-# curriculo_front
+# curriculo-front
